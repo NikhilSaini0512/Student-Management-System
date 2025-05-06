@@ -49,6 +49,7 @@ Typography uses a modern **sans-serif font** for clean, readable layouts.
 
 ## 📸 Screenshots
 
-_Add screenshots or screen recordings here after development._
 
+
+<img width="1408" alt="Screenshot 2025-05-06 at 11 59 33 PM" src="https://github.com/user-attachments/assets/945320ae-0105-4a5b-9017-f3a0080c18cf" />
 
